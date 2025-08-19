@@ -1,28 +1,7 @@
-# Python
+.env
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.python-version
-
-# Environments
-.env
-.venv/
+.DS_Store
 venv/
-env/
-
-# IDE
-.idea/
-.vscode/
-*.swp
-
-# Logs and databases
-*.log
-*.sqlite
-
-# Local data
-*.json
-!data/vacancies.json  # Исключение нужного файла
-
-# Poetry
-poetry.lock
